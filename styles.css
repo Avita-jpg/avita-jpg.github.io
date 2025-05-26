@@ -2,7 +2,7 @@ body {
     background-color: fuchsia;
     font-family: 'courier', monospace;
 }
-#title-container {
+#title-container h1{
     background: url("https://media.giphy.com/media/R2B4OcBpN7YS4/giphy.gif?cid=ecf05e473vshjorwieskn2kvlwp73yzvocs0dgl5xzti9w2e&ep=v1_gifs_related&rid=giphy.gif&ct=g");
     background-clip: text;
 	-webkit-text-fill-color: #ffffff31;
