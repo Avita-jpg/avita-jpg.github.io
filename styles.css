@@ -1,9 +1,12 @@
 body {
     background-color: fuchsia;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: 'courier', monospace;
 }
-h1 {
-    color: white;
+#title-container {
+    background: url("https://media.giphy.com/media/R2B4OcBpN7YS4/giphy.gif?cid=ecf05e473vshjorwieskn2kvlwp73yzvocs0dgl5xzti9w2e&ep=v1_gifs_related&rid=giphy.gif&ct=g");
+    background-clip: text;
+	-webkit-text-fill-color: #ffffff31;
     text-align: center;
-    font-weight: bolder;
+    font-weight: 100;
+    font-size: 70px;
 }
